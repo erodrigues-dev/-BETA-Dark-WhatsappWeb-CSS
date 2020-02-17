@@ -4,6 +4,7 @@
 Just paste this code on some CSS injection browser extension, and enjoy black whatsapp web theme. 
 I use CustomCSS Injector.
 
+P.S.: Some parts can be white, it's late and i have to sleep i guess...
 
 
 ```CSS
@@ -79,7 +80,7 @@ html[dir] ._1ccjW::after, html[dir] ._3Jvyf {
         color: white;
 }
 
-._2nIcO, .tzihe ,._3KRbU._3sLGI, ._13mgZ,._3u328.copyable-text.selectable-text,._2zCfw.copyable-text.selectable-text, .eiCXe, .ZP8RM ,._0LqQ, ._315-i._F7Vk, ._3fs0K , ._1qNwV ,._1ovWX._F7Vk , ._2UaNq , ._2UaNq, ._3H4MS, ._19RFN._1ovWX._F7Vk {
+._2LSbZ._2j5ir._2ZVEo,_2LSbZ._2j5ir._2ZVEo, ._2nIcO, .tzihe ,._3KRbU._3sLGI, ._13mgZ,._3u328.copyable-text.selectable-text,._2zCfw.copyable-text.selectable-text, .eiCXe, .ZP8RM ,._0LqQ, ._315-i._F7Vk, ._3fs0K , ._1qNwV ,._1ovWX._F7Vk , ._2UaNq , ._2UaNq, ._3H4MS, ._19RFN._1ovWX._F7Vk {
     background-color: black !important;
     color:white !important;
 }
@@ -92,5 +93,5 @@ html[dir] ._1ccjW::after, html[dir] ._3Jvyf {
 filter: invert(100%);
 }
 
-#startup { background: black;}
+#startup { background: black ;}
 ```
