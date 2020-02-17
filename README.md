@@ -1,5 +1,5 @@
 # WhatsappWebCSSInject
-CSS Whatsapp Web
+ Dark Theme CSS for Whatsapp Web
 
 Just paste this code on some CSS injection browser extension, and enjoy black whatsapp web theme. 
 I use CustomCSS Injector.
