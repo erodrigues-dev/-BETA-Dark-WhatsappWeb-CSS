@@ -4,4 +4,9 @@
 Just paste this code on some CSS injection browser extension, and enjoy black whatsapp web theme. 
 I use CustomCSS Injector.
 
+
 P.S.: Some parts can be white, it's late and i have to sleep i guess...
+=======
+
+
+![preview](https://github.com/danielrdrigues/Dark-WhatsappWeb-CSS/blob/master/Screenshot_1.png?raw=true)
