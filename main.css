@@ -1,10 +1,5 @@
-
 #app {
 background-color: black !important;
-}
-
-path {
- fill: white;
 }
 
 ._2i7Ej ,._14Mgc, .copyable-area, ._2i7Ej {
@@ -63,7 +58,7 @@ background-color: black
 }
 
 html[dir] ._1ccjW::after, html[dir] ._3Jvyf {
- background-color: rgb(17,2,2);
+ background-color: rgb(17,2,2) !important;
  color: rgb(32,21,21);
 }
 ._3fs0K { 
@@ -137,6 +132,7 @@ progress {
     color: wheat !important;
 }
 
+
 /* negrito */
 ._12pGw strong {
     color: #966c1f !important;
@@ -168,11 +164,14 @@ html[dir] ._3RWII, html[dir] .jZhyM {
      border-radius: 0 !important;
     }
 
-/* aumenta as thumbnails */
+/* aumenta as thumbnails 
 ._3RWII {
     height: 66px !important;
     width: 62px !important;
-}
+}  porem diminui a img em outrs lugares.
+   mal uso de classes da parte da equipe do whatsapp
+*/
+
 /* sem borda nos chats */
 html[dir] ._2WP9Q, .hover._2UaNq, .hover {
      border: 0 !important;
@@ -197,4 +196,160 @@ html[dir] ._1lo-H {
 
 html[dir] ._13mgZ {
     border: 1px solid wheat !important;
+}
+ 
+
+/*Phone low battery*/
+html[dir] ._2t3oV {
+	position: sticky;
+}
+/*Phone disconnected*/
+html[dir] ._1puWZ, html[dir] ._2xikZ {
+    z-index: 10000;
+    background-color: #fed859;
+    position: sticky;
+}
+
+/* reply */
+html[dir] ._1ebw2 {
+    background-color: black;
+	
+}
+/* reply x corner */
+html[dir] .OWYLS {
+    background-color: black;
+}
+
+/* send image bottom */ 
+html[dir] .NeQRT {
+    background-color: #0e0e0e !important;
+    padding: 24px 20px 0 !important;
+}
+/* new chat tab */
+html[dir] .r7sRK {
+    background-color: #0e0d24 !important;
+    color: white !important;
+}
+/* new chat tab */
+html[dir] ._3jHKU {
+    background-color: #0e0d24 !important;
+}
+/* new chat > new group */
+html[dir] ._3p0T6 {
+    background-color: #27263b !important;
+}
+
+path  {
+	fill-opacity: 87%;
+    fill: wheat;
+    background: center !important;
+    display: block;
+}
+/*search message*/
+
+
+/* search top msg */
+.kiodY { 
+	background: black !important;
+}
+/*search bottom */ ._13U-5._2dEsb {
+	background-color: black !important;
+}
+
+/* quote reply */
+html[dir=ltr] ._3LVMN {
+    background: #141a33;
+}
+
+._2LSbZ._2j5ir._1ur1f {
+    background: black;
+}
+
+
+
+html[dir] ._1ebw2 {
+    background-color: black !important;
+    padding-top: 5px;
+}
+/* group innfo*/
+html[dir] .OWYLS {
+    background-color: black !important;
+}
+
+/*reply*/
+html[dir] ._2a6mc {
+    background: #380638 !important;
+}
+
+html[dir] ._2a6mc > div > span {
+    color: wheat !important;
+}
+
+._F7Vk.selectable-text.invisible-space.copyable-text {
+	color:white !important;
+}
+
+._2LSbZ._2j5ir.ujWpH {
+    background-color: black !important;
+}
+
+._3_-Si {
+    background-color: black !important;
+}
+
+._6xQdq {
+	color:white !important;
+}
+
+._2LSbZ._2j5ir {
+	background-color: black !important;
+}
+
+._3EN0l { 
+	background-color: black !important;
+}
+
+html[dir=ltr] .pgYve {
+    background-color: black !important;
+}
+
+html[dir=ltr] ._3KRbU {
+    right: 11px;
+    background-color: wheat !important;
+}
+
+html[dir] ._8fE-g {
+    color: wheat; 
+}
+.matched-mention .at-symbol {
+    color: rgba(255, 255, 255, 0.25) !important;
+}
+
+html[dir] ._1HjMu {
+    padding: 10px 0 15px;
+    background: black !important;
+}
+
+html[dir] ._2ogLZ {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background: black !important;
+}
+
+html[dir=ltr] ._1GdY6 {
+    background: black !important;
+    margin-right: 18px;
+}
+
+html[dir] ._3yth3 {
+    background-color: none
+}
+
+html[dir] ._3yth3 {
+    background-color: black !important;
+}
+
+html[dir] .a7otO {
+    text-align: center;
+    color: wheat;
 }
