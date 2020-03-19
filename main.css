@@ -713,3 +713,8 @@ html[dir] .a7otO {
 html[dir] .cGLoy {
     background-color: black; !important
 }
+
+/* cabeçalho figurinha */
+html[dir] .message-in ._2Hp95 ._3Mf7Z, html[dir] .message-in ._2Hp95 ._3qAvH {
+    background-color: #130f32;
+}
