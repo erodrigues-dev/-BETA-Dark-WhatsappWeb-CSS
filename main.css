@@ -1,20 +1,22 @@
-/*aplica cor escura */
-body{
-    background: #17171A;
-}
-/*cor do banner no header*/
-._347-w:after {
-    background-color: #7259C1 !important
-}
-/*inverte as cores*/
-.app{
-	filter:invert(1);
-}
-/*reverte para a cor normal das imagens*/
-img {
-	filter:invert(1);
-}
-/*reverte os emojis para a cor normal*/
-.emojik {
+.app-wrapper-web {
     filter: invert(1);
+}
+
+video,
+.app-wrapper-web [style*=background-image],
+.app-wrapper-web img{
+    filter:invert(1)
+}
+
+.emojik{
+    filter: invert(1)
+}
+
+.app-wrapper-web > span:nth-child(3) * {
+    background: #e6f6ff;
+    color:#000;
+}
+
+hr {
+    background: #000 !important;
 }
