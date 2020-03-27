@@ -7,6 +7,10 @@
     background:#cef1b9 !important;
 }
 
+[data-animate-status-v3-modal-background]{
+    background: #eaeaea!important;
+}
+
 video,
 .app-wrapper-web [style*=background-image],
 .app-wrapper-web img{
