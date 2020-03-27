@@ -11,10 +11,25 @@ body{
 	filter:invert(1);
 }
 /*reverte para a cor normal das imagens*/
-img {
-	filter:invert(1);
+._1YbLB {
+	filter:invert(1) !important;
 }
+
+/*reverte contatos*/
+ .Qgzj8 {
+    filter:invert(1) !important; 
+ }
+/*reverte tumb do vídeo*/ 
+._1C80R {
+    filter:invert(1) !important; 
+}
+
+/*foto de perfil*/
+.IuYNx {
+   filter:invert(1) !important; 
+}
+
 /*reverte os emojis para a cor normal*/
-.emojik {
+.emojik, .emoji.wa._3FXB1 {
     filter: invert(1);
 }
